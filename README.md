@@ -1,6 +1,6 @@
 <p align="center">╔════════════════▣◎▣════════════════╗</p>
-<h1>Welcome to my Github Page</h1>
-
+<p style="font-size:2em" align="center">Welcome to my Github Page</p>
+<p align="center">╚═══════════════▣◎▣════════════════╝</p>
 <div>
     <p>My name is Brent Buenarte, currently studying Bachelors of Science in Information Technology <em>as of Feb 2024. Soon to implement the following studies in real world applications.</em></p>
 </div>
