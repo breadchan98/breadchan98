@@ -18,3 +18,6 @@
     <li>CompTIA A+, Security+, Network+, Project+</li>
     <li>Axelos ITIL 4 Information Technology Management</li>
 </ul>
+
+
+<h2>Completed Projects</h2>
