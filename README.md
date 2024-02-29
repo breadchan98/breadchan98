@@ -8,7 +8,7 @@
 <div>
 <p>I am currently creating, improving, and fixing my current and future projects. Beside's programming, I enjoy eating a lot, playing video games, drawing, and other creative hobbies.</p>
 </div>
-
+<img src="https://i.gifer.com/origin/d8/d8743ef4a8dd35f68e4a0f706d53d77a_w200.gif" align="right">
 <div>
 <p> Throughout my coursework and studies, I have learned the following programming/query languages and framework, also acquired the necessary certifications:</p>
 <ul>
@@ -18,7 +18,6 @@
     <li>CompTIA A+, Security+, Network+, Project+</li>
     <li>Axelos ITIL 4 Information Technology Management</li>
 </ul>
-
 
 <h2>✰ Completed Projects </h2>
 
@@ -39,3 +38,4 @@
     - <a href="https://github.com/breadchan98/Computer-Store-Cloud" alt="inventory">Computer Store cloud</a>
 - Data ETL Query for Extraction and Manipulation - SQL/PostgreSQL
     - <a href="https://github.com/breadchan98/d191-data-analysis-etl">Data Analysis </a>
+
