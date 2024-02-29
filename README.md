@@ -21,3 +21,21 @@
 
 
 <h2>✰ Completed Projects </h2>
+
+### ☆ freeCodeCamp-inspired <em>custom</em> Projects:
+
+- Learn HTML - Cat Photo App Project
+    - <a href="https://github.com/breadchan98/Terrible-Good-PC-App?tab=readme-ov-file" alt="terrible">Terrible and Good Looking PC Photo app</a>
+- Learn CSS - Cafe Menu
+    - <a href="https://github.com/breadchan98/KaiBeeGang-Cuisine" alt="pinoy">KaiBeeGang Cuisine Menu</a>
+- HTMl/CSS Web Form - Registration Form
+    - <a href="https://github.com/breadchan98/Job-Application" alt="indians">Software Engineer Job Application</a>
+
+### ☆ Personal Projects
+
+- Where's Waldo Game - Java/Swing Library GUI
+    - <a href="https://github.com/breadchan98/wheres-waldo-game" alt="waldo"> Where's Waldo</a>
+- Computer Store Cloud - Java/REST API/Spring Boot/Hibernate/Front-End
+    - <a href="https://github.com/breadchan98/Computer-Store-Cloud" alt="inventory">Computer Store cloud</a>
+- Data ETL Query for Extraction and Manipulation - SQL/PostgreSQL
+    - <a href="https://github.com/breadchan98/d191-data-analysis-etl">Data Analysis </a>
