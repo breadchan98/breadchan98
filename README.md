@@ -19,6 +19,12 @@
     <li>Axelos ITIL 4 Information Technology Management</li>
 </ul>
 
+
+<br>
+<br>
+<br>
+<br>
+
 <h2>✰ Completed Projects </h2>
 
 ### ☆ freeCodeCamp-inspired <em>custom</em> Projects:
