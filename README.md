@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Welcome to my Github Page</strong></h1>
+<h1 align="center"><strong>»»—— Welcome to my Github Page ——««</strong></h1>
 <p align="center">╔════════════════▣◎▣════════════════╗</p>
 
 <div>
@@ -20,4 +20,4 @@
 </ul>
 
 
-<h2>Completed Projects</h2>
+<h2>✰ Completed Projects </h2>
