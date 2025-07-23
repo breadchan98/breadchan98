@@ -6,9 +6,9 @@
 </div>
 
 <div>
-    Projects:
-    - Multi-USB Mount for Importing Files
-    - Pre-Configured Windows OS Automation
+    Projects:<br>
+    - Multi-USB Mount for Importing Files <br>
+    - Pre-Configured Windows OS Automation 
 </div>
 
 <br>
