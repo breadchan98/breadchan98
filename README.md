@@ -2,7 +2,13 @@
 <p align="center">╔════════════════▣◎▣════════════════╗</p>
 
 <div>
-    <p>My name is Brent Buenarte, currently studying Bachelors of Science in Information Technology <em>as of Feb 2024. Soon to implement the following studies in real world applications.</em></p>
+    <p>My name is Brent Buenarte, graduated with a Bachelors of Science in Information Technology. Implementing the following studies in real world applications.</em></p>
+</div>
+
+<div>
+    Projects:
+    - Multi-USB Mount for Importing Files
+    - Pre-Configured Windows OS Automation
 </div>
 
 <div>
