@@ -11,6 +11,8 @@
     - Pre-Configured Windows OS Automation
 </div>
 
+<br>
+
 <div>
 <p>I am currently creating, improving, and fixing my current and future projects. Beside's programming, I enjoy eating a lot, playing video games, drawing, and other creative hobbies.</p>
 <p> Throughout my coursework and studies, I have learned the following programming/query languages and framework, also acquired the necessary certifications:</p>
