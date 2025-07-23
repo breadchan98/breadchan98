@@ -7,8 +7,8 @@
 
 <div>
     Projects:<br>
-    - Multi-USB Mount for Importing Files <br>
-    - Pre-Configured Windows OS Automation 
+    - Multi-USB Mount for Importing Files with % completion <br>
+    - Pre-Configured Windows OS Automation <em>including removal of MS Account (as of July 2025)</em>
 </div>
 
 <br>
