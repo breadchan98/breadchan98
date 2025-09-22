@@ -5,12 +5,6 @@
     <p>My name is Brent Buenarte, graduated with a Bachelors of Science in Information Technology. Implementing the following studies in real world applications.</em></p>
 </div>
 
-<div>
-    Projects:<br>
-    - Multi-USB Mount for Importing Files with % completion <br>
-    - Pre-Configured Windows OS Automation <em>including removal of MS Account (as of July 2025)</em>
-</div>
-
 <br>
 
 <div>
