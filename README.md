@@ -22,8 +22,6 @@
 <br>
 <h2>✰ Completed Projects </h2>
 
-### ☆ My Small HomeLab Setup (included documentation for myself):
-
 ### ☆ freeCodeCamp-inspired <em>custom</em> Projects:
 
 - Learn HTML - Cat Photo App Project
