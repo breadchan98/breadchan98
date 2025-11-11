@@ -11,7 +11,7 @@
 <p>I am currently creating, improving, and fixing my current and future projects. Beside's programming, I enjoy eating a lot, playing video games, drawing, and other creative hobbies.</p>
 <p> Throughout my coursework and studies, I have learned the following programming/query languages and framework, also acquired the necessary certifications:</p>
 <ul>
-    <li> Powershell Scripting w/ Python elements </li>
+    <li> Powershell Scripting and C# Development </li>
     <li>HTML/CSS/Javascript</li>
     <li>Java/Spring Boot/Hibernate</li>
     <li>LPI Linux Essentials</li>
