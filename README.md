@@ -20,17 +20,7 @@
     <li>AWS Certified Cloud Practitioner</li>
 </ul>
 <br>
-<h2>✰ Completed Projects </h2>
-
-### ☆ freeCodeCamp-inspired <em>custom</em> Projects:
-
-- Learn HTML - Cat Photo App Project
-    - <a href="https://github.com/breadchan98/Terrible-Good-PC-App?tab=readme-ov-file" alt="terrible">Terrible and Good Looking PC Photo app</a>
-- Learn CSS - Cafe Menu
-    - <a href="https://github.com/breadchan98/KaiBeeGang-Cuisine" alt="pinoy">KaiBeeGang Cuisine Menu</a>
-- HTMl/CSS Web Form - Registration Form
-    - <a href="https://github.com/breadchan98/Job-Application" alt="indians">Software Engineer Job Application</a>
-
+    
 ### ☆ Personal and School Projects
 
 - Where's Waldo Game - Java/Swing Library GUI
